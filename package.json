@@ -1,0 +1,24 @@
+{
+    "name": "FoodOrderingSystem",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "debug": "node index.js --inspect"
+    },
+    "repository": {
+        "type": "git",
+        "url": "#"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "#"
+    },
+    "homepage": "#",
+    "devDependencies": {
+        "readline-sync": "^1.4.10"
+    }
+}
